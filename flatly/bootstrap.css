@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Raleway:400,700,400italic");
+@import url("https://fonts.googleapis.com/css?family=Amatic+SC");
 /*!
  * bootswatch v3.3.6
  * Homepage: http://bootswatch.com
@@ -4966,12 +4967,12 @@ a.badge:focus {
   padding-top: 30px;
   padding-bottom: 30px;
   margin-bottom: 30px;
-  color: inherit;
-  background-color: #ecf0f1;
+  color: #ffffff;
+  background-color: #2d8f7f;
 }
 .jumbotron h1,
 .jumbotron .h1 {
-  color: inherit;
+  color: #ffffff;
 }
 .jumbotron p {
   margin-bottom: 15px;
@@ -4979,7 +4980,7 @@ a.badge:focus {
   font-weight: 200;
 }
 .jumbotron > hr {
-  border-top-color: #cfd9db;
+  border-top-color: #21685d;
 }
 .container .jumbotron,
 .container-fluid .jumbotron {
@@ -5002,7 +5003,7 @@ a.badge:focus {
   }
   .jumbotron h1,
   .jumbotron .h1 {
-    font-size: 68px;
+    font-size: 53px;
   }
 }
 .thumbnail {
